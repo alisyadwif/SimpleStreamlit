@@ -1,4 +1,4 @@
-streamlit
+import stream as st
 
 st.set_page_config(page_title="Dashboard")
-st.title("Dashboard")
+st.sidebar.header("Dashboard")
