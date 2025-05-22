@@ -1,4 +1,4 @@
 streamlit
 
-st.set_page_config(page_tittle="Dashboard")
-st.title("")
+st.set_page_config(page_title="Dashboard")
+st.title("Dashboard")
